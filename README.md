@@ -6,6 +6,8 @@ Com esse projeto, aprendi muito sobre alinhamento de **elementos** na página, u
 
 Esse projeto tem uma história legal, foi feito durante os dias 30 e 31 de Dezembro de 2019, eu estava tão imerso no aprendizado que nem me dei conta das datas!
 
+---
+
 ## Requisitos do projeto
 
 Você deve criar uma cópia o mais próxima possível do site oficial do Facebook (versão de dezembro de 2019), completando os requisitos abaixo:
